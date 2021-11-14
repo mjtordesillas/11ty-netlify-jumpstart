@@ -7,7 +7,7 @@ description: 'A demo of the "Page" template and kitchen sink sample of styled el
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Testing CI/CD.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
